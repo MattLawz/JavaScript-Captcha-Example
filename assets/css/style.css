@@ -1,0 +1,22 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #fff;
+	background-color: #222;
+	text-align: center;
+}
+
+.grow {
+transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+transform: scale(1.1);
+}
+
+input {
+    border: 3px solid#195bff;
+    border-radius: 5px;
+    background: transparent;
+    text-align: center;
+    color: white;
+}
